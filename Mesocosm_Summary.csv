@@ -1,0 +1,41 @@
+Cage,Block,Personality_Pre,Personality_Pre_RAND,Personality_Post,Predator_Treatment,Treatment_Nested,Grasshopper.Surv,Score_Avg_Pre,Score_Avg_Post,Score_Change,Median_CRP_PRE,Median_CRP_POST,VAR_CRP_PRE,VAR_CRP_POST,Forbs_Biomass_Adj,Goldenrod_Biomass_Adj,Grass_Biomass_Adj
+1_11,Block_1,Bold,Bold,Bold,Grasshoppers + Spider,BoldAmbush,2,33.854,40.059,6.205,1.0962,1.7569,0.177,0.7255,-12.9,0.85,3.75
+1_14,Block_1,Bold,Bold,NA,Grasshoppers-only,Bold,0,41.11,NA,NA,0.8808,NA,0.3122,NA,1,12.15,-15.75
+1_2,Block_1,Bold,Shy,Continuous,Grasshoppers-only,Bold,5,42.154,26.354,-15.8,0.8019,0.6165,0.0731,0.7553,-0.7,-4.35,4.35
+1_3,Block_1,Shy,Shy,Continuous,Grasshoppers-only,Shy,4,3.052,20.004,16.952,0.2306,0.5813,3.0872,1.1534,1.9,6.65,11.75
+1_4,Block_1,Shy,Bold,Continuous,Grasshoppers + Spider,ShyAmbush,4,4.968,27.133,22.165,0.277,0.4617,3.1693,0.068,-36.9,12.65,44.75
+1_5,Block_1,Bold,Bold,Bold,Grasshoppers + Spider,BoldAmbush,4,37.19,42.047,4.857,0.6597,0.5534,0.3574,0.1671,-0.5,2.65,26.05
+1_6,Block_1,Shy,Shy,Continuous,Grasshoppers-only,Shy,1,4.676,22.448,17.772,0.1393,0.5555,1.5359,1,-7.7,10.65,14.25
+1_8,Block_1,Shy,Bold,Shy,Grasshoppers + Spider,ShyAmbush,3,5.026,7.281,2.255,0.0564,0.2078,2.0581,1.3267,3.5,2.25,-37.75
+2_10,Block_2,Shy,Bold,Shy,Grasshoppers + Spider,ShyAmbush,3,8.602,5.873,-2.729,1.4083,0.1047,2.0022,1.7244,2.6,4.9,-19.53
+2_11,Block_2,Shy,Shy,Shy,Grasshoppers-only,Shy,3,11.478,12.985,1.507,0.5499,0.4435,0.8123,0.1054,11,-3.1,5.57
+2_13,Block_2,Bold,Bold,Shy,Grasshoppers + Spider,BoldAmbush,4,52.744,0,-52.744,0.9177,0,0.2513,1,11,-9.6,-28.03
+2_14,Block_2,Shy,Bold,Bold,Grasshoppers + Spider,ShyAmbush,1,9.568,87.577,78.009,0.1105,1.2976,2.7647,1,2.2,-8.6,-7.03
+2_2,Block_2,Bold,Bold,Continuous,Grasshoppers + Spider,BoldAmbush,5,61.448,16.091,-45.357,0.8915,0.6549,0.1248,0.9563,8,4.9,11.97
+2_4,Block_2,Bold,Shy,Bold,Grasshoppers-only,Bold,3,52.76,42.606,-10.154,0.6625,0.2198,0.1778,0.0341,2,-30.4,-8.63
+2_8,Block_2,Bold,Shy,Shy,Grasshoppers-only,Bold,3,52.708,9.719,-42.989,1.2373,0.2283,0.3376,1.6781,6.5,1.9,-41.03
+2_9,Block_2,Shy,Shy,NA,Grasshoppers-only,Shy,3,10.616,NA,NA,2.5713,NA,1.1395,NA,6,4.9,-1.03
+3_1,Block_3,Shy,Bold,Shy,Grasshoppers-only,Shy,1,9.614,12.081,2.467,0.2029,0.4131,1.3724,0.9281,-0.2,-2.15,62.65
+3_12,Block_3,Bold,Bold,Bold,Grasshoppers + Spider,BoldAmbush,4,59.944,41.341,-18.603,0.6363,0.6961,0.3804,0.368,-6.8,3.25,57.05
+3_14,Block_3,Bold,Shy,Shy,Grasshoppers-only,Bold,1,63.67,9.114,-54.556,0.8443,0.1773,0.0245,1,5.6,8.15,45.45
+3_4,Block_3,Shy,Bold,Continuous,Grasshoppers + Spider,ShyAmbush,4,13.232,40.766,27.534,0.3182,0.4307,1.086,0.1206,5.5,-3.35,-20.95
+3_5,Block_3,Bold,Bold,Bold,Grasshoppers + Spider,BoldAmbush,1,57.822,54.375,-3.447,0.8701,0.6033,0.2318,0.396,-1.6,-9.15,43.25
+3_6,Block_3,Shy,Shy,Continuous,Grasshoppers-only,Shy,2,12.614,26.428,13.814,0.9918,0.8281,0.5804,0.0181,3,-11.45,41.25
+3_8,Block_3,Shy,Shy,NA,Grasshoppers-only,Shy,1,10.46,NA,NA,0.8688,NA,1.3451,NA,0.9,5.15,58.25
+3_9,Block_3,Bold,Bold,Bold,Grasshoppers-only,Bold,2,59.234,51.942,-7.292,0.868,0.6793,0.0844,0.0411,-22.9,3.25,37.15
+4_10,Block_4,Shy,Shy,Bold,Grasshoppers-only,Shy,3,10.027,34.762,24.735,1.1449,0.2653,0.1315,0.0379,12.3,-1.55,5.65
+4_11,Block_4,Shy,Bold,Shy,Grasshoppers + Spider,ShyAmbush,2,6.094,14.592,8.498,0.5896,0.1176,1.8234,0.2474,20.1,2.75,-53.75
+4_14,Block_4,Bold,Shy,NA,Grasshoppers + Spider,BoldAmbush,0,43.48,NA,NA,0.7127,NA,0.1633,NA,19.6,-4.95,-19.35
+4_4,Block_4,Bold,Shy,Bold,Grasshoppers-only,Bold,1,43.329,59.291,15.962,0.7321,0.4736,0.2901,1,10.3,-3.75,20.75
+4_6,Block_4,Bold,Shy,Shy,Grasshoppers + Spider,BoldAmbush,2,46.369,0,-46.369,0.5252,0,0.142,1,20.8,0.75,-7.25
+4_7,Block_4,Shy,Bold,Continuous,Grasshoppers + Spider,ShyAmbush,4,15.376,24.804,9.428,0.1371,0.8631,1.5907,0.322,17.6,-4.55,-17.25
+4_8,Block_4,Bold,Bold,Continuous,Grasshoppers-only,Bold,3,38.406,18.803,-19.603,0.8129,0.7614,0.0782,0.3663,16.8,0.65,19.75
+4_9,Block_4,Shy,Shy,NA,Grasshoppers-only,Shy,0,5.15,NA,NA,0.1246,NA,3.558,NA,13.3,-21.95,-6.25
+5_1,Block_5,Shy,Shy,NA,Grasshoppers-only,Shy,0,5.2,NA,NA,0.0908,NA,2.544,NA,14.97,5.37,-54.07
+5_10,Block_5,Shy,Bold,Bold,Grasshoppers + Spider,ShyAmbush,2,5.29,50.442,45.152,1.1133,0.266,0.3961,0.1659,11.97,8.37,-30.17
+5_14,Block_5,Bold,Shy,NA,Grasshoppers-only,Bold,1,42.75,NA,NA,1.0787,NA,0.2092,NA,12.27,1.97,-15.67
+5_3,Block_5,Shy,Shy,Bold,Grasshoppers + Spider,ShyAmbush,4,5.947,45.983,40.036,0.0121,0.7073,3.3263,0.2548,15.47,8.47,9.43
+5_4,Block_5,Shy,Bold,Continuous,Grasshoppers-only,Shy,1,7.226,30.14,22.914,0.4148,1,2.1223,1,-19.03,7.37,27.43
+5_7,Block_5,Bold,Shy,Continuous,Grasshoppers + Spider,BoldAmbush,1,42.958,17.833,-25.125,0.6915,0.1656,0.2935,1,18.97,-2.63,-7.07
+5_8,Block_5,Bold,Bold,Bold,Grasshoppers + Spider,BoldAmbush,5,39.12,55.374,16.254,0.9132,0.2179,0.4198,0.0485,17.97,3.37,33.43
+5_9,Block_5,Bold,Bold,Continuous,Grasshoppers-only,Bold,4,37.864,16.778,-21.086,0.8047,1.011,0.6735,0.3636,13.97,9.37,-2.57
